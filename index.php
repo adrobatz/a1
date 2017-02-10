@@ -21,7 +21,7 @@
 				"It’s wingardium leviOsa, not leviosAH.– J.K. Rowling (Hermione), Harry Potter and the Philosopher’s Stone", 
 				"Just because you have the emotional range of a teaspoon doesn’t mean we all have.― J.K. Rowling (Hermione), Harry Potter and the Order of the Phoenix",
 			];
-			$random_quote = array_rand($quotes, 3);
+			$random_quote = array_rand($quotes, 1);
 			echo $quotes[$random_quote];
 		?>
 	</p>
