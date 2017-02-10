@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h1>Alyssa Drobatz</h1>
-	<img width="300" src="images/alyssalaini.JPG" alt="Alyssa and Laini.">
+	<img src="images/alyssalaini.jpg" alt="Alyssa and Laini.">
 	<h2>About Me</h2>
 	<p>Hi! My name is Alyssa Drobatz. I am the human on the left in the photo above. The fluffy thing on the right is one of my dogs, her name is Laini. I'm living in Fairmount, Philadelphia at the moment (right next to the Philadelphia Museum of Art...most people know of it because it has the steps Rocky ran up ;) ). I work at Anthropologie (one of Urban Outfitter's sister brands) as their resident jack of all trades for the ECommerce team. I code their emails, help put product on the site, assist the London office with keeping their site up and running, and manage the content for both the EU and US sites. This is my third class at HES, and I am extremely excited to be diving into web applications. I've spent many hours with HTML and CSS and can't wait to expand my skills! I also really love Harry Potter...</p>
 

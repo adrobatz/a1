@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+}
+h1 {
+	font-family: Arial, sans-serif;
+	font-size: 36px;
+	font-weight: lighter;
+	color: grey;
+}
+h2 {
+	font-family: Arial, sans-serif;
+	font-size: 24px;
+	font-weight: lighter;
+	color: grey;
+}
+p {
+	width: 50%;
+	margin: 0 auto;
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+}
